@@ -1,0 +1,48 @@
+* Initial Idea
+3d hex tile based  logistics game. A marriage of Taluva and TGZ or Terra Mystica. I want the setup to be a world building phase where players can build out the world before playing. There will be a few preset maps in the rules you can use that are "balanced" but I enjoy the idea of making the world each time within certain constraints.
+
+** World Building
+- The world building process should be fast, a timer can be used if needed.
+- There is a common pool of all tiles larger than 1. 
+- Each player has a hand of 3 single tile features they keep hidden.
+- Each round a player may place either:
+  - 2 common pool tiles
+   *or*
+  - 1 common pool tile and 1 feature
+   *unless No common pool tiles exist*
+  - Then players must place 2 features.
+    
+** Starting the Game
+Since the world placements are left up to the players they might not be the most balanced. To combat this there will be 2 initial bids:
+- Start location selection
+- Company Selection - differnt companies are better at different things and/or start with different resources
+- Person with most remaining money goes first. Tie breaker is on company charter
+
+Once players have thier starting bits and starting locations setup the game begins.
+
+** How it's played
+*** High level overview
+This is a logistics game about building out an efficient network. You use money in the game, that is what you bid with. It is yet to be decided if you do resource conversion or straight up delivery of goods for $$$. Player interaction is in network blocking and possibly resource stealing or increasing resource depletion.
+**** There could be a market of "goods contracts"
+The market has a set of cards you're trying to fulfill. Single resources will always output $x by themselves but contracts that you can combo together to make a bigger return. Contracts are persistent between rounds and new ones become available each turn. Players take turns claiming them and they might have a higher return when chosen first and or be blocked out if enough people take them (modulated based on player count)
+**** Terraforming Mars Style resource managment
+Could have a style where each "source" hooked into your network serves as an "income" that is tracked on your player board. i.e. if I"m connected to to 3 iron i go up $x income on the tracker. 
+**** Resource Depletion Idea:
+if I have a "source" for a resource to myself it will be worth $X each round for Y rounds. Each new player reduces the # of rounds remaining. So ( $x * y/num players).
+
+
+* Fast thought prototyping:
+Utilize cutter and 3d printer:
+- hex tiles with "ledges" that can be stacked
+- sticker terrain tiles to go inside
+- Road pieces:
+  - Roads
+  - Bridges
+  - Ramps
+- Building types: (buildings of various "types" that produce differnt things on diff terains.)
+  - Refineries - gather resource
+  - Factories - Assemble things [stage 2]
+  - Warehouses - Store goods between rounds to hit better later contracts
+
+
+
